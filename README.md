@@ -15,3 +15,6 @@ Code base on [*caffe*](http://caffe.berkeleyvision.org/)
 ***  
 
 Mail: <zhaok.shu@gmail.com> Page: <http://zhaok.xyz>
+
+
+说明链接：http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324665&idx=1&sn=3022e7e75a4bad0acdde36fe3edf565e&scene=0#wechat_redirec
